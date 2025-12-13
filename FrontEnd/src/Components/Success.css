@@ -1,0 +1,10 @@
+/* Container */
+*{
+    font-family: "Playwrite NZ Guides", cursive;
+}
+
+
+body {
+    background: linear-gradient( to right, rgba(255,50,30,0), rgb(61, 43, 2));
+    
+    }
